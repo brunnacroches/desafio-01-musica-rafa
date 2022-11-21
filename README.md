@@ -29,5 +29,3 @@ Implemente tal sistema!
 - Observações importantes!
 * O projeto deve ser salvo e armazenado em um repositório no GitHub
 * Não há necessidade da utilização de um banco de dados para tal, entretanto caso seja optado pela utilização, deixe os arquivos necessários (.sql) no projeto
-# desafio-01-m-sica-
-# desafio-01-m-sica-
